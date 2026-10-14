@@ -1,0 +1,14 @@
+# Cofre de Segurança (Chaves de API, e-mails e senhas)
+.env
+
+# Banco de Dados Relacional Local (Histórico de testes)
+dados/juris_database.db
+
+# Arquivos Temporários e Ocultos do Windows/Excel
+~$*
+.DS_Store
+Thumbs.db
+
+# Arquivos de Cache do Python
+__pycache__/
+*.py[cod]
